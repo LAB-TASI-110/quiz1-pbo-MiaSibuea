@@ -9,3 +9,4 @@ GPT
 6. kode error,jelaskan mengapa terjadi error?
 7. tidak di perlukan harga,buat sistem untuk melaporkan laundry tidak lengkapp jadi mahasiswa ingin komplain dengan mengirimkan tidak ada nya barang dengan detail,nama,nim,asrama
 8. 
+
